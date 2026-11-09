@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "alg": "RS384",
+      "use": "sig",
+      "kid": "cerner-poc-key-1",
+      "n": "q_EFzm61lCMo1WKNzxHLp8nZ-H7DkcW1uscx0Iyb2AUfTyJXaenbdnVzNWotFvqdQjXRVNTtY2_fenu9RW9HbLWGCgIXPv54Ipfihsm0DqhTK95VLjsL4zjPRRKu8QZN97PjFm4MkaxQ187JA2e8jSzWi7cHklEsTh-v-pGjl1v7pA-srsE_k68moOpkulPKuoi-fwZyIn7doAB_Ji9dbgjkLSuIHHnPVE5UgJlrgDVj4RmJyt6IJqED0Pqp1-1YNkJWQNFPulHE1yNJQFCdMtFhbrjltF4GpxIkaxYuQrXwlbivGNW3tS1VJS4eF7W3FrCfzzE4H8Hqwf4ix0iGiQ",
+      "e": "AQAB"
+    }
+  ]
+}
